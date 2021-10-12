@@ -25,3 +25,37 @@
 12-Stateful Widgets
 
 13-Lists of Data
+
+14-Custom Classes
+
+15-Cards
+
+16- Extracting Widgets
+
+17-Functions as Parameters
+
+18-Starting the World Time App
+
+19-Maps & Routing
+
+20-Widget Lifecycle
+
+21-Asynchronous Code
+
+22- Flutter Packages (http)
+
+23-World Time API
+
+24-WorldTime Custom Class
+
+25-Passing Route Data
+
+26-Formatting & Showing Dates
+
+27- Loaders ,Spinners
+
+28-Ternary Operators
+
+29-List View Builder
+
+30-Updating the Time
